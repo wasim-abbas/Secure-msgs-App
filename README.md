@@ -7,12 +7,9 @@ Android basesd end-to-end SMS encryption App utilising some of the sms apis of A
 
 # Screens
 
-![](screens/screen1.png)
-
-<!-- <img src="https://github.com/wasim-abbas/Secure-Messaging-App/screen2.png"  height="200" width="200" >
-<img src="https://github.com/wasim-abbas/Secure-Messaging-App/screen3.png"  height="200" width="200" >
-<img src="https://github.com/wasim-abbas/Secure-Messaging-App/screen4.png"  height="200" width="200" >
-<img src="https://github.com/wasim-abbas/Secure-Messaging-App/screen5.png"  height="200" width="200" > -->
+<!-- ![](screens/screen1.png) -->
+<img src="screens/screen1.png" height="400" > <img src="screens/screen2.png"  height="400"> <img src="screens/screen3.png" height="400" >
+![](screens/screen4.png) <img src="screens/screen5.png" > 
 
 # Implementations
 
