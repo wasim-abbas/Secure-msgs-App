@@ -3,7 +3,7 @@
 
 # Secure Messaging App
 
-Android basesd end-to-end SMS encryption App utilising some of the sms apis of Android and Advance Encryption Standard technique.
+Android-based end-to-end SMS encryption App utilising some of the sms apis of Android and the Advanced Encryption Standard technique.
 
 # Screens
 
